@@ -26,8 +26,9 @@ This project includes:
 ## Results
 The models were evaluated using validation datasets. The hybrid approach demonstrated improved stability and classification performance compared to individual models in selected scenarios.
 
-## Reports
+## Report
 This project contains a report that indicates the objectives' results.
+Rapor.pdf
 
 ## Author
 Hümeyra Bediz
