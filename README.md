@@ -30,4 +30,4 @@ The models were evaluated using validation datasets. The hybrid approach demonst
 This project contains a report named Rapor.pdf that indicates the objectives' results.
 
 ## Author
-Hümeyra Bediz
+https://github.com/hmyrb/
